@@ -49,8 +49,11 @@ nav li, nav li a {text-decoration:none;
 nav ul ul ul a {font-size:24px;}
 
     
-li.activ {/*font-weight: bold;*/
+li.activ {
     color:#623e00}
+    
+nav ul ul ul li.activ {
+	font-size: 24px}    
 
 nav li a:hover {background-color: #ffa000;
     color:#623e00}
@@ -66,7 +69,7 @@ h3 a {font-size:110%;
 
 h3 a:hover {background-color:#ffa000;}
     
-h3+p::first-letter {/*font-family: qumpellkano12regular;*/
+h3+p::first-letter {
     font-size: 45px;
     /*border:1px solid;*/
     float:left;
