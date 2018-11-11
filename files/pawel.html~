@@ -3,9 +3,8 @@
 <html lang="pl">
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="refresh" content="5">
-    <link rel="stylesheet" type="text/css" href="stylesheet.css">
-    <title>MIREK</title>
+   <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <title>PAWEŁ</title>
 </head>
 
 <body>
@@ -26,18 +25,18 @@
                     <li><a href="bronek.html">Bronek</a></li>
                         <ul>
                             <li><a href="jola.html">Jola</a></li>
-                            <li class="activ">Mirek</li>
+                            <li><a href="mirek.html">Mirek</a></li>
                             <li><a href="alina.html">Alina</a></li>
                         </ul>
                     <li><a href="gienek.html">Gienek</a></li>
                         <ul>
                             <li><a href="gosia.html">Gosia</a></li>
-                            <li><a href="zosia.html">Zosia</a></li>
+                            <li> <a href="zosia.html">Zosia</a></li>
                             <li><a href="lukasz.html">Łukasz</a></li>
                         </ul>
                     <li><a href="rudek.html">Rudek</a></li>
                         <ul>
-                            <li><a href="pawel.html">Paweł</a></li>
+                            <li class="activ">Paweł</li>
                             <li><a href="robert.html">Robert</a></li>
                             <li><a href="beatka.html">Beatka</a></li>
                         </ul>
@@ -69,73 +68,67 @@
     <article>
         <div class="inside">
            
-            <h3><a href="dziadkowie.html">Dziadkowie</a> &rarr; <a href="bronek.html">Bronek</a> &rarr; Mirek</h3>
+            <h3><a href="dziadkowie.html">Dziadkowie</a> &rarr; <a href="rudek.html">Rudek</a> &rarr; Paweł</h3>
+            
             
             <p>
- Tarnowiec, Zgłobice. Rodzina Sławomira i Teresy Brożek, dzieci wg starszeństwa: Agnieszka, Piotr i Justyna  
+ Dąbrówka Szczepanowska. Rodzina Pawła Brożka i Lucyny Brożek, syn Tomasz
 </p>
 
 
 <figure>
-<img src="photos/mirek/I%20kom%20Mirka.jpg" alt="">
+<img src="photos/pawel/slub%20Pawel%20i%20Lucyna.jpg" alt="">
    <figcaption>
-I komunia Mirka   
+ Ślub Lucyny Brożek i Pawła Brożka   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/Mirek_.jpg" width="312" height="480" alt="">
+<img src="photos/pawel/01%20Rodzina%20Pawla.jpg" alt="">
    <figcaption>
-Mirek jeszcze singiel   
+  Dąbrówka, rodzina Pawła   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/01%20slub%20Mirka%20i%20Teresy.jpg" alt="">
+<img src="photos/pawel/Rodzina%20Pawla.jpg" alt="">
    <figcaption>
-Ślub Teresy Brożek i Sławomira Brożka   
+ Paweł Agata i Tomek nad morzem   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/I%20kom%20Aliny.jpg" alt="">
+<img src="photos/pawel/Corka%20Pawla%20Dominika.jpg" alt="">
    <figcaption>
-I komunia Agnieszki z babcią Zosią i dziadkiem Bronkiem, Joe i Frania, oraz rodzice Teresy   
+Dominika Brożek, córka Pawła  
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/I%20kom%20Piotra.jpg" alt="">
+<img src="photos/pawel/Pawel%20i%20Tomek%20jako%20matrosy.jpg" alt="">
    <figcaption>
-I komunia Piotrka, obok Justynka i Daniel, II rząd -Jola Niemczura, Agnieszka, Zosia, III rząd - Alina, Teresa   
+ Paweł i Tomek  nad morzem   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/01%20I%20kom%20Aliny.jpg" alt="">
+<img src="photos/pawel/02%20Lucyna%20i%20Pawel.jpg" alt="">
    <figcaption>
-I komunia Justynki z babcią Zosią<br>i dziadkiem Bronkiem   
+ Lucyna, Paweł i Tomek na tarasie   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/12717886_959169804130921_9143757073887925138_n.jpg" width="670" height="476" alt="">
+<img src="photos/pawel/Pawel%20i%20Beatka%20z%20Rodzinami.jpg" alt="">
    <figcaption>
-Agnieszka i Justyna Brożek   
+ Rodzina Pawła i Beatki, od lewej: Wiesiek i Beatka,<br>Piotrek, Lucyna i Paweł, Kinga i  Tomek   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/12928238_959170084130893_6022082160683624370_n.jpg" width="648" height="480" alt="">
+<img src="photos/pawel/2014-01-28%2013.52.15.jpg" alt="">
    <figcaption>
-Daniel Styszko, Krzysztof Kozioł, Alina Styszko, Zosia Brożek, Teresa, Agnieszka, Justyna i Sławomir Brożek   
-   </figcaption>
-</figure>
-
-<figure>
-<img src="photos/mirek/12920541_959168197464415_8943417119689484933_n.jpg" width="664" height="480" alt="">
-   <figcaption>
-Mirek i Piotrek Brożek, Alina Styszko, Jola Niemczura, Zosia Brożek,<br>Justynka i Teresa Brożek   
+ Tomek Brożek   
    </figcaption>
 </figure>
 
@@ -143,7 +136,7 @@ Mirek i Piotrek Brożek, Alina Styszko, Jola Niemczura, Zosia Brożek,<br>Justyn
         </div>
     </article>
      <footer>
-        <p>&copy; rtadek &#8208; marzec 2016 - listopad 2018</p>
+        <p>&copy; rtadek &#8208; marzec 2016</p>
      </footer>
      </div>
 

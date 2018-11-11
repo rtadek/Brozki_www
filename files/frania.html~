@@ -3,9 +3,8 @@
 <html lang="pl">
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="refresh" content="5">
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
-    <title>MIREK</title>
+    <title>FRANIA</title>
 </head>
 
 <body>
@@ -26,13 +25,13 @@
                     <li><a href="bronek.html">Bronek</a></li>
                         <ul>
                             <li><a href="jola.html">Jola</a></li>
-                            <li class="activ">Mirek</li>
+                            <li><a href="mirek.html">Mirek</a></li>
                             <li><a href="alina.html">Alina</a></li>
                         </ul>
                     <li><a href="gienek.html">Gienek</a></li>
                         <ul>
                             <li><a href="gosia.html">Gosia</a></li>
-                            <li><a href="zosia.html">Zosia</a></li>
+                            <li> <a href="zosia.html">Zosia</a></li>
                             <li><a href="lukasz.html">Łukasz</a></li>
                         </ul>
                     <li><a href="rudek.html">Rudek</a></li>
@@ -41,7 +40,7 @@
                             <li><a href="robert.html">Robert</a></li>
                             <li><a href="beatka.html">Beatka</a></li>
                         </ul>
-                    <li><a href="frania.html">Frania</a></li>
+                    <li class="activ">Frania</li>
                         <ul>
                             <li><a href="jurek.html">Jurek</a></li>
                             <li><a href="winka.html">Winka</a></li>
@@ -69,81 +68,52 @@
     <article>
         <div class="inside">
            
-            <h3><a href="dziadkowie.html">Dziadkowie</a> &rarr; <a href="bronek.html">Bronek</a> &rarr; Mirek</h3>
-            
+            <h3><a href="dziadkowie.html">Dziadkowie</a> &rarr; Frania</h3>
             <p>
- Tarnowiec, Zgłobice. Rodzina Sławomira i Teresy Brożek, dzieci wg starszeństwa: Agnieszka, Piotr i Justyna  
+ Tarnów, Chicago. Rodzina Frani Stepek - Zadorożny z d. Brożek. Dzieci: Ludwika Peschak, Jerzy Stepek. 
 </p>
 
 
 <figure>
-<img src="photos/mirek/I%20kom%20Mirka.jpg" alt="">
+<img src="photos/frania/slubne%20Frania%20i%20Bogdan%20Stepek.jpg" alt="Frania i Bogdan Stepek">
    <figcaption>
-I komunia Mirka   
+ Ślub Frani Brożek i Bogdana Stepka   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/Mirek_.jpg" width="312" height="480" alt="">
+<img src="photos/frania/Frania%20Zosia%20i%20Lenek.jpg" alt="">
    <figcaption>
-Mirek jeszcze singiel   
+Chrzciny Łukasza Brożka, od lewej: Olek Klucznik, Frania, Zosia Pijanowska, Romek Baczyński, Maria Baczyńska, stoi Lenek Kubica
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/01%20slub%20Mirka%20i%20Teresy.jpg" alt="">
+<img src="photos/frania/4,07,1982%20Slub%20Frani%20i%20Dzio%C5%82a.jpg" alt="">
    <figcaption>
-Ślub Teresy Brożek i Sławomira Brożka   
+Ślub Frani Stepek i Józefa Zadorożny   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/I%20kom%20Aliny.jpg" alt="">
+<img src="photos/frania/slub%20Frani%201982r.jpg" alt="Ślub Frani 1982">
    <figcaption>
-I komunia Agnieszki z babcią Zosią i dziadkiem Bronkiem, Joe i Frania, oraz rodzice Teresy   
+Frania już Zadorożny,<br>Olek Pijanowski, Hania Adamus   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/I%20kom%20Piotra.jpg" alt="">
+<img src="photos/frania/Frania%20i%20Dziol.jpg" alt="Frania i Dzioł">
    <figcaption>
-I komunia Piotrka, obok Justynka i Daniel, II rząd -Jola Niemczura, Agnieszka, Zosia, III rząd - Alina, Teresa   
+Od lewej: Hania Adamus, Adam Adamus. Frania Zadorożny, Joe Zadorożny
+   
    </figcaption>
 </figure>
-
-<figure>
-<img src="photos/mirek/01%20I%20kom%20Aliny.jpg" alt="">
-   <figcaption>
-I komunia Justynki z babcią Zosią<br>i dziadkiem Bronkiem   
-   </figcaption>
-</figure>
-
-<figure>
-<img src="photos/mirek/12717886_959169804130921_9143757073887925138_n.jpg" width="670" height="476" alt="">
-   <figcaption>
-Agnieszka i Justyna Brożek   
-   </figcaption>
-</figure>
-
-<figure>
-<img src="photos/mirek/12928238_959170084130893_6022082160683624370_n.jpg" width="648" height="480" alt="">
-   <figcaption>
-Daniel Styszko, Krzysztof Kozioł, Alina Styszko, Zosia Brożek, Teresa, Agnieszka, Justyna i Sławomir Brożek   
-   </figcaption>
-</figure>
-
-<figure>
-<img src="photos/mirek/12920541_959168197464415_8943417119689484933_n.jpg" width="664" height="480" alt="">
-   <figcaption>
-Mirek i Piotrek Brożek, Alina Styszko, Jola Niemczura, Zosia Brożek,<br>Justynka i Teresa Brożek   
-   </figcaption>
-</figure>
-
 
         </div>
     </article>
      <footer>
-        <p>&copy; rtadek &#8208; marzec 2016 - listopad 2018</p>
+        <p>&copy; rtadek &#8208; marzec 2016</p>
      </footer>
      </div>
 

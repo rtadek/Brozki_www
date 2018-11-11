@@ -3,9 +3,8 @@
 <html lang="pl">
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="refresh" content="5">
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
-    <title>MIREK</title>
+    <title>HELENKA</title>
 </head>
 
 <body>
@@ -17,7 +16,7 @@
         <ul>
             <li><a href="dziadkowie.html">Dziadkowie</a></li>
                 <ul>
-                    <li><a href="helenka.html">Helenka</a></li>
+                    <li class="activ">Helenka</li>
                         <ul>
                             <li><a href="fredzia.html">Fredzia</a></li>
                             <li><a href="hania.html">Hania</a></li>
@@ -26,13 +25,13 @@
                     <li><a href="bronek.html">Bronek</a></li>
                         <ul>
                             <li><a href="jola.html">Jola</a></li>
-                            <li class="activ">Mirek</li>
+                            <li><a href="mirek.html">Mirek</a></li>
                             <li><a href="alina.html">Alina</a></li>
                         </ul>
                     <li><a href="gienek.html">Gienek</a></li>
                         <ul>
                             <li><a href="gosia.html">Gosia</a></li>
-                            <li><a href="zosia.html">Zosia</a></li>
+                            <li> <a href="zosia.html">Zosia</a></li>
                             <li><a href="lukasz.html">Łukasz</a></li>
                         </ul>
                     <li><a href="rudek.html">Rudek</a></li>
@@ -69,73 +68,61 @@
     <article>
         <div class="inside">
            
-            <h3><a href="dziadkowie.html">Dziadkowie</a> &rarr; <a href="bronek.html">Bronek</a> &rarr; Mirek</h3>
+            <h3><a href="../index.html">Dziadkowie</a> &rarr; Helenka</h3>
             
-            <p>
- Tarnowiec, Zgłobice. Rodzina Sławomira i Teresy Brożek, dzieci wg starszeństwa: Agnieszka, Piotr i Justyna  
+         <p>
+ Tarnów, Chicago. Rodzina Heleny Nosek z d. Brożek i Fryderyka Noska, dzieci wg starszeństwa: Fryderyka Kubica z d. Nosek, Anna Adamus z d. Nosek i Andrzej Nosek
 </p>
 
 
 <figure>
-<img src="photos/mirek/I%20kom%20Mirka.jpg" alt="">
+<img src="photos/helenka/Helena%20i%20Fredek%20Nosek.jpg" alt="">
    <figcaption>
-I komunia Mirka   
+Helena Nosek z d. Brożek i Fryderyk Nosek   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/Mirek_.jpg" width="312" height="480" alt="">
+<img src="photos/helenka/Helena%20i%20Fredek.jpg" alt="">
    <figcaption>
-Mirek jeszcze singiel   
+ Helena i Fredek Nosek
+   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/01%20slub%20Mirka%20i%20Teresy.jpg" alt="">
+<img src="photos/helenka/1976%20Fredzia%20Lenek%20Adam%20Winka%20w.Fredek%20w%20Krynicy.jpg" alt="">
    <figcaption>
-Ślub Teresy Brożek i Sławomira Brożka   
+ 1976 Fredzia i Lenek Kubica, Adam Adamus, Andrzej i Fredek Nosek w Krynicy   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/I%20kom%20Aliny.jpg" alt="">
+
    <figcaption>
-I komunia Agnieszki z babcią Zosią i dziadkiem Bronkiem, Joe i Frania, oraz rodzice Teresy   
+   <img src="photos/helenka/20.10.1984%20Helenka%20i%20Fredek.jpg" alt="">
+1984 Helenka i Fredek Nosek, Hania Adamus i Olek Pijanowski   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/I%20kom%20Piotra.jpg" alt="">
+<img src="photos/helenka/Bronek%20Fredek%20Adam_Adamus.jpg" alt="">
    <figcaption>
-I komunia Piotrka, obok Justynka i Daniel, II rząd -Jola Niemczura, Agnieszka, Zosia, III rząd - Alina, Teresa   
+Fredek w Tarnowcu   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/01%20I%20kom%20Aliny.jpg" alt="">
+<img src="photos/helenka/Helenka%20i%20Fredek.jpg" alt="">
    <figcaption>
-I komunia Justynki z babcią Zosią<br>i dziadkiem Bronkiem   
+Helenka i Fredek Nosek   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/12717886_959169804130921_9143757073887925138_n.jpg" width="670" height="476" alt="">
+<img src="photos/helenka/1992%20prawie%20cala%20Rodzina%20Helenki.jpg" alt="">
    <figcaption>
-Agnieszka i Justyna Brożek   
-   </figcaption>
-</figure>
-
-<figure>
-<img src="photos/mirek/12928238_959170084130893_6022082160683624370_n.jpg" width="648" height="480" alt="">
-   <figcaption>
-Daniel Styszko, Krzysztof Kozioł, Alina Styszko, Zosia Brożek, Teresa, Agnieszka, Justyna i Sławomir Brożek   
-   </figcaption>
-</figure>
-
-<figure>
-<img src="photos/mirek/12920541_959168197464415_8943417119689484933_n.jpg" width="664" height="480" alt="">
-   <figcaption>
-Mirek i Piotrek Brożek, Alina Styszko, Jola Niemczura, Zosia Brożek,<br>Justynka i Teresa Brożek   
+Od lewej: Andrzej Adamus, Fredzia Kubica, Anula z synem, Adrian Adamus, Hania Adamus, Helenka Nosek   
    </figcaption>
 </figure>
 
@@ -143,7 +130,7 @@ Mirek i Piotrek Brożek, Alina Styszko, Jola Niemczura, Zosia Brożek,<br>Justyn
         </div>
     </article>
      <footer>
-        <p>&copy; rtadek &#8208; marzec 2016 - listopad 2018</p>
+        <p>&copy; rtadek &#8208; marzec 2016</p>
      </footer>
      </div>
 

@@ -3,9 +3,8 @@
 <html lang="pl">
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="refresh" content="5">
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
-    <title>MIREK</title>
+    <title>MELA</title>
 </head>
 
 <body>
@@ -26,13 +25,13 @@
                     <li><a href="bronek.html">Bronek</a></li>
                         <ul>
                             <li><a href="jola.html">Jola</a></li>
-                            <li class="activ">Mirek</li>
+                            <li><a href="mirek.html">Mirek</a></li>
                             <li><a href="alina.html">Alina</a></li>
                         </ul>
                     <li><a href="gienek.html">Gienek</a></li>
                         <ul>
                             <li><a href="gosia.html">Gosia</a></li>
-                            <li><a href="zosia.html">Zosia</a></li>
+                            <li> <a href="zosia.html">Zosia</a></li>
                             <li><a href="lukasz.html">Łukasz</a></li>
                         </ul>
                     <li><a href="rudek.html">Rudek</a></li>
@@ -52,7 +51,7 @@
                             <li><a href="wladek.html">Władek</a></li>
                             <li><a href="jadzia.html">Jadzia</a></li>
                         </ul>
-                    <li><a href="mela.html">Mela</a></li>
+                    <li class="activ">Mela</li>
                         <ul>
                             <li><a href="edytka.html">Edytka</a></li>
                             <li><a href="krzysiu.html">Krzysiu</a></li>
@@ -69,81 +68,83 @@
     <article>
         <div class="inside">
            
-            <h3><a href="dziadkowie.html">Dziadkowie</a> &rarr; <a href="bronek.html">Bronek</a> &rarr; Mirek</h3>
+            <h3><a href="dziadkowie.html">Dziadkowie</a> &rarr; Mela</h3>
             
             <p>
- Tarnowiec, Zgłobice. Rodzina Sławomira i Teresy Brożek, dzieci wg starszeństwa: Agnieszka, Piotr i Justyna  
+ Tarnów. Rodzina Michaliny Kwiatkowskiej z d. Brożek i Edwarda Kwiatkowskiego, dzieci: Edyta Dynowska z d. Kwiatkowska, Krzysztof Kwiatkowski, Darek Kwiatkowski
 </p>
 
 
 <figure>
-<img src="photos/mirek/I%20kom%20Mirka.jpg" alt="">
+<img src="photos/mela/Mela%20panna.jpg" alt="">
    <figcaption>
-I komunia Mirka   
+Mela panna   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/Mirek_.jpg" width="312" height="480" alt="">
+<img src="photos/mela/1969%20slub%20Meli%20i%20Edka.jpg" alt="">
    <figcaption>
-Mirek jeszcze singiel   
+ 1969 ślub Meli i Edka Kwiatkowskich
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/01%20slub%20Mirka%20i%20Teresy.jpg" alt="">
+<img src="photos/mela/1969%20slub%20Meli%20i%20Edka%20Kwiatkowskich.jpg" alt="">
    <figcaption>
-Ślub Teresy Brożek i Sławomira Brożka   
+Przed kościołem św. Józefa 
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/I%20kom%20Aliny.jpg" alt="">
+<img src="photos/mela/1969%20slubne%20Meli%20i%20Edka%20Kwiatkowskich.jpg" alt="">
    <figcaption>
-I komunia Agnieszki z babcią Zosią i dziadkiem Bronkiem, Joe i Frania, oraz rodzice Teresy   
+  1969 wesele Meli i Edka Kwiatkowskich 
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/I%20kom%20Piotra.jpg" alt="">
+<img src="photos/mela/Edyta%20Krzysiu%20i%20Darek.jpg" alt="">
    <figcaption>
-I komunia Piotrka, obok Justynka i Daniel, II rząd -Jola Niemczura, Agnieszka, Zosia, III rząd - Alina, Teresa   
+Dzieci Kwiatkowskich: Edyta Dynowska, Krzysiu i Darek   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/01%20I%20kom%20Aliny.jpg" alt="">
+<img src="photos/mela/Mela%20i%20Edek.jpg" alt="">
    <figcaption>
-I komunia Justynki z babcią Zosią<br>i dziadkiem Bronkiem   
+Mela i Edek Kwiatkowscy i Stasia Kocik   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/12717886_959169804130921_9143757073887925138_n.jpg" width="670" height="476" alt="">
+<img src="photos/mela/01%202012%20Mela%20i%20ZosiaPi.jpg" alt="">
    <figcaption>
-Agnieszka i Justyna Brożek   
+2012 r.  Mela Kwiatkowska i Zosia Pijanowska.   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/12928238_959170084130893_6022082160683624370_n.jpg" width="648" height="480" alt="">
+<img src="photos/mela/2012%20Edek%20i%20Adam%20Adamus.jpg" alt="">
    <figcaption>
-Daniel Styszko, Krzysztof Kozioł, Alina Styszko, Zosia Brożek, Teresa, Agnieszka, Justyna i Sławomir Brożek   
+Edek Kwiatkowski i Adam Adamus   
    </figcaption>
 </figure>
+
+
 
 <figure>
-<img src="photos/mirek/12920541_959168197464415_8943417119689484933_n.jpg" width="664" height="480" alt="">
+<img src="photos/mela/2012%20Mela%20i%20ZosiaPi.jpg" alt="">
    <figcaption>
-Mirek i Piotrek Brożek, Alina Styszko, Jola Niemczura, Zosia Brożek,<br>Justynka i Teresa Brożek   
+Zosia Pijanowska i Mela Kwiatkowska   
    </figcaption>
 </figure>
 
-
+            
         </div>
     </article>
      <footer>
-        <p>&copy; rtadek &#8208; marzec 2016 - listopad 2018</p>
+        <p>&copy; rtadek &#8208; marzec 2016</p>
      </footer>
      </div>
 

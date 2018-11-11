@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="refresh" content="5">
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
-    <title>MIREK</title>
+    <title>FREDZIA</title>
 </head>
 
 <body>
@@ -19,14 +19,14 @@
                 <ul>
                     <li><a href="helenka.html">Helenka</a></li>
                         <ul>
-                            <li><a href="fredzia.html">Fredzia</a></li>
+                            <li class="activ">Fredzia</li>
                             <li><a href="hania.html">Hania</a></li>
                             <li><a href="andrzej.html">Andrzej</a></li>
                         </ul>
                     <li><a href="bronek.html">Bronek</a></li>
                         <ul>
                             <li><a href="jola.html">Jola</a></li>
-                            <li class="activ">Mirek</li>
+                            <li><a href="mirek.html">Mirek</a></li>
                             <li><a href="alina.html">Alina</a></li>
                         </ul>
                     <li><a href="gienek.html">Gienek</a></li>
@@ -69,73 +69,87 @@
     <article>
         <div class="inside">
            
-            <h3><a href="dziadkowie.html">Dziadkowie</a> &rarr; <a href="bronek.html">Bronek</a> &rarr; Mirek</h3>
+            <h3><a href="dziadkowie.html">Dziadkowie</a> &rarr; <a href="helenka.html">Helenka</a> &rarr; Fredzia</h3>
             
             <p>
- Tarnowiec, Zgłobice. Rodzina Sławomira i Teresy Brożek, dzieci wg starszeństwa: Agnieszka, Piotr i Justyna  
+ Tarnów, Chicago. Rodzina Fryderyki Kubicy z d. Nosek i Leonarda Kubicy. Dzieci wg starszeństwa: Anna Lord, Rafał Kubica, Alinda Ostałowicz 
 </p>
 
 
 <figure>
-<img src="photos/mirek/I%20kom%20Mirka.jpg" alt="">
+<img src="photos/fredzia/slub%20Fredzi%20i%20Lenka%20Kubicow.jpg" alt="Ślub">
    <figcaption>
-I komunia Mirka   
+Ślub Fredzi i Lenka Kubiców   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/Mirek_.jpg" width="312" height="480" alt="">
+<img src="photos/fredzia/1968%20slub%20Fredzi.jpg" alt="Wesele Fredzi i Lenka">
    <figcaption>
-Mirek jeszcze singiel   
+ Wesele Fredzi i Lenka Kubiców, z lewej Rodzice Lenka i siostra, z prawej Helenka   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/01%20slub%20Mirka%20i%20Teresy.jpg" alt="">
+<img src="photos/fredzia/Jozia%20i%20Rudek%20Brozek%20Fredzia%20i%20Lenek%20Kubica.jpg" alt="">
    <figcaption>
-Ślub Teresy Brożek i Sławomira Brożka   
+Rudek i Józia Brożkowie, Fredzia i Lenek Kubicowie   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/I%20kom%20Aliny.jpg" alt="">
+<img src="photos/fredzia/2012%20Kubice%20i%20Julcia.jpg" alt="">
    <figcaption>
-I komunia Agnieszki z babcią Zosią i dziadkiem Bronkiem, Joe i Frania, oraz rodzice Teresy   
+Lenek i Rafał Kubica z dziećmi   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/I%20kom%20Piotra.jpg" alt="">
+<img src="photos/fredzia/1993%20slub%20Anuli%20i%20Darka.jpg" alt="">
    <figcaption>
-I komunia Piotrka, obok Justynka i Daniel, II rząd -Jola Niemczura, Agnieszka, Zosia, III rząd - Alina, Teresa   
+Ślub Anuli Lord z d. Kubica i Darka Lorda, z boku Fredzia   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/01%20I%20kom%20Aliny.jpg" alt="">
+<img src="photos/fredzia/2010%20Dzieci%20Kubicow.jpg" alt="Wnuki">
    <figcaption>
-I komunia Justynki z babcią Zosią<br>i dziadkiem Bronkiem   
+Wnuki Fredzi i Lenka   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/12717886_959169804130921_9143757073887925138_n.jpg" width="670" height="476" alt="">
+<img src="photos/fredzia/Fredzia%20Anula%20i%20wnuk.jpg" alt="">
    <figcaption>
-Agnieszka i Justyna Brożek   
+Anula, wnuk Fredzi i Lenka   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/12928238_959170084130893_6022082160683624370_n.jpg" width="648" height="480" alt="">
+<img src="photos/fredzia/2015%20Anula%20i%20Gabriel%20Lord,%20Alinda%20Rafaela%20i%20Amadeusz%20Lord.jpg" alt="">
    <figcaption>
-Daniel Styszko, Krzysztof Kozioł, Alina Styszko, Zosia Brożek, Teresa, Agnieszka, Justyna i Sławomir Brożek   
+Anula z dziećmi: Gabriel Lord, Alinda Lord i Amadeusz Lord   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/12920541_959168197464415_8943417119689484933_n.jpg" width="664" height="480" alt="">
+<img src="photos/fredzia/2015%20Anula%20i%20Alinda%20Rafaela.jpg" alt="">
    <figcaption>
-Mirek i Piotrek Brożek, Alina Styszko, Jola Niemczura, Zosia Brożek,<br>Justynka i Teresa Brożek   
+Anula i Alinda Rafaela   
+   </figcaption>
+</figure>
+
+<figure>
+<img src="photos/fredzia/01%202014%20Alinda%20Kubica-Osikowicz.jpg" alt="">
+  <figcaption>
+Alinda Osiłowicz z d. Kubica i Łukasz Osiłowicz   
+   </figcaption>
+</figure>
+
+<figure>
+<img src="photos/fredzia/2015%20nula%20i%20Fredzia.jpg" alt="">
+   <figcaption>
+Fredzia Kubica i córka Anula Lord   
    </figcaption>
 </figure>
 
@@ -143,7 +157,7 @@ Mirek i Piotrek Brożek, Alina Styszko, Jola Niemczura, Zosia Brożek,<br>Justyn
         </div>
     </article>
      <footer>
-        <p>&copy; rtadek &#8208; marzec 2016 - listopad 2018</p>
+        <p>&copy; rtadek &#8208; marzec 2016</p>
      </footer>
      </div>
 

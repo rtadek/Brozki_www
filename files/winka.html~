@@ -3,9 +3,8 @@
 <html lang="pl">
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="refresh" content="5">
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
-    <title>MIREK</title>
+    <title>WINKA</title>
 </head>
 
 <body>
@@ -26,13 +25,13 @@
                     <li><a href="bronek.html">Bronek</a></li>
                         <ul>
                             <li><a href="jola.html">Jola</a></li>
-                            <li class="activ">Mirek</li>
+                            <li><a href="mirek.html">Mirek</a></li>
                             <li><a href="alina.html">Alina</a></li>
                         </ul>
                     <li><a href="gienek.html">Gienek</a></li>
                         <ul>
                             <li><a href="gosia.html">Gosia</a></li>
-                            <li><a href="zosia.html">Zosia</a></li>
+                            <li> <a href="zosia.html">Zosia</a></li>
                             <li><a href="lukasz.html">Łukasz</a></li>
                         </ul>
                     <li><a href="rudek.html">Rudek</a></li>
@@ -44,7 +43,7 @@
                     <li><a href="frania.html">Frania</a></li>
                         <ul>
                             <li><a href="jurek.html">Jurek</a></li>
-                            <li><a href="winka.html">Winka</a></li>
+                            <li class="activ">Winka</li>
                         </ul>
                     <li><a href="stasia.html">Stasia</a></li>
                         <ul>
@@ -69,81 +68,67 @@
     <article>
         <div class="inside">
            
-            <h3><a href="dziadkowie.html">Dziadkowie</a> &rarr; <a href="bronek.html">Bronek</a> &rarr; Mirek</h3>
+            <h3><a href="dziadkowie.html">Dziadkowie</a> &rarr; <a href="frania.html">Frania</a> &rarr; Winka</h3>
             
             <p>
- Tarnowiec, Zgłobice. Rodzina Sławomira i Teresy Brożek, dzieci wg starszeństwa: Agnieszka, Piotr i Justyna  
+ Tarnów, Chicago. Rodzina Ludwiki Peschak z d. Stepek i Adama Peschaka, dzieci: Agnieszka Peschak żona Łukasza Banysia;<br>Dominika Peschak z mężem Noah Parekh, Basia Peschak
 </p>
 
 
 <figure>
-<img src="photos/mirek/I%20kom%20Mirka.jpg" alt="">
+<img src="photos/winka/1977%2004%20Slub%20Winki%20i%20Adama.jpg" alt="">
    <figcaption>
-I komunia Mirka   
+1977 ślub Winki Stepek<br>i Adama Peschaka
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/Mirek_.jpg" width="312" height="480" alt="">
+<img src="photos/winka/7.jpg" width="670" height="431" alt="">
    <figcaption>
-Mirek jeszcze singiel   
+Winka i Adam Peschakowie 
+   </figcaption>
+</figure>
+
+
+<figure>
+<img src="photos/winka/3.jpg" width="320" height="480" alt="">
+   <figcaption>
+Adam Peschak z córkami   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/01%20slub%20Mirka%20i%20Teresy.jpg" alt="">
+<img src="photos/winka/2.jpg" width="348" height="480" alt="">
    <figcaption>
-Ślub Teresy Brożek i Sławomira Brożka   
+Dominika Peschak i Noah Parekh   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/I%20kom%20Aliny.jpg" alt="">
+<img src="photos/winka/6.jpg" width="670" height="458" alt="">
    <figcaption>
-I komunia Agnieszki z babcią Zosią i dziadkiem Bronkiem, Joe i Frania, oraz rodzice Teresy   
+Agnieszka Peschak, Łukasz, Majka, Franuś Banyś   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/I%20kom%20Piotra.jpg" alt="">
+<img src="photos/winka/5.jpg" width="670" height="432" alt="">
    <figcaption>
-I komunia Piotrka, obok Justynka i Daniel, II rząd -Jola Niemczura, Agnieszka, Zosia, III rząd - Alina, Teresa   
+Franuś Banyś i Maya Banyś   
    </figcaption>
 </figure>
 
 <figure>
-<img src="photos/mirek/01%20I%20kom%20Aliny.jpg" alt="">
+<img src="photos/winka/4.jpg" width="670" height="377" alt="">
    <figcaption>
-I komunia Justynki z babcią Zosią<br>i dziadkiem Bronkiem   
+Basia Peschak   
    </figcaption>
 </figure>
-
-<figure>
-<img src="photos/mirek/12717886_959169804130921_9143757073887925138_n.jpg" width="670" height="476" alt="">
-   <figcaption>
-Agnieszka i Justyna Brożek   
-   </figcaption>
-</figure>
-
-<figure>
-<img src="photos/mirek/12928238_959170084130893_6022082160683624370_n.jpg" width="648" height="480" alt="">
-   <figcaption>
-Daniel Styszko, Krzysztof Kozioł, Alina Styszko, Zosia Brożek, Teresa, Agnieszka, Justyna i Sławomir Brożek   
-   </figcaption>
-</figure>
-
-<figure>
-<img src="photos/mirek/12920541_959168197464415_8943417119689484933_n.jpg" width="664" height="480" alt="">
-   <figcaption>
-Mirek i Piotrek Brożek, Alina Styszko, Jola Niemczura, Zosia Brożek,<br>Justynka i Teresa Brożek   
-   </figcaption>
-</figure>
-
-
+            
         </div>
     </article>
      <footer>
-        <p>&copy; rtadek &#8208; marzec 2016 - listopad 2018</p>
+        <p>&copy; rtadek &#8208; marzec 2016</p>
      </footer>
      </div>
 
